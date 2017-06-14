@@ -134,5 +134,3 @@ if __name__=='__main__':
 
     error = simple_mnist(args['tensorboard_logdir'])
     print("Error: %f" % error)
-
-    print "demo"
